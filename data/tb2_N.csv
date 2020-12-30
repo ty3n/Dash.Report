@@ -1,0 +1,7 @@
+A,B,C,D,E,F
+Issue Description,Start Date,Due Date,Owner,Status,Comment
+MES system over Dash,2019/09/24,2019/10/04,Nick,Open,"Download, login, logout functions on webpage of development."
+Snmp query for AFI test,2019/09/24,2019/09/25,Nick,Open,"Provide snmp query methods for Shennan requirement in order to AFI test."
+LED Board test through pi,2019/09/27,2019/09/28,Nick,Open,"Provide SOP to factory side needs."
+EBBU factory script(0.4.1),2019/09/27,2019/09/28,Nick,Open,"Modified differences of raw data and script."
+CGN5 test script(RMA),2019/09/30,2019/10/3,Nick,Close,"Modified element id"

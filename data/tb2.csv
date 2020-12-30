@@ -1,0 +1,6 @@
+A,B,C,D,E,F
+Issue Description,Start Date,Due Date,Owner,Status,Comment
+NOVA-2000 Rx calibration pwr inaccuracy 2dB,2019/09/24,2019/09/25,James Huang,Close,"Modified Rx monitor power 2 write in table0 0x58,0x59. Add power 2 offset write in table0 0x4A,0x4B"
+IQexl 80 dual port parallel test,2019/09/24,2019/09/25,James Huang,Open,"Test flow modified by intel could run dual test. Re-test of dual test rate 30% need intel improvement. Upgrade IQlite 2228, confirm improvement or not"
+
+

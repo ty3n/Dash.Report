@@ -1,0 +1,8 @@
+A,B,C,D,E
+Issue Description,Publish,Receive,Priority,Comment
+CGNV5-MAX AFI loop test 5G wifi boot up fail,James Huang,Chelsea,Major,"Based on CGN5 experience, AFI 5G wifi channel set to ch44 instead of ch36. Confirm that whether is problem of 5G setting."
+Puma7 fboot burn in,H.C PE,S.Z PE,Major,"Puma7 fboot NADN flash burn in, always burn in two partitions"
+CODA-4680 7.1.1.2.3 PRODUCTION IMAGE,James Huang,KC Chen,Major,"Start up enable GA mode, it’s necessary bring up WIFI in order to throughput test"
+,,JoJo,,"Start up disable test mode, throughput performance bad"
+NOVA-2000 Tx calibration multi-DUT test,James Huang,"Eirc Yen, JP",NA,"1 vs4 with optic switch test finished. Please prepare optic switch for cut in to production line"
+

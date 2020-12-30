@@ -1,0 +1,19 @@
+A,B,C,D,E,F
+Name,Pins,Description,Name,Pins,Description
+GND,8,Ground Pin,QG,6,QG Output
+OE,13,Output Enable,QH,7,QH Output
+QA,15,QA Output,QH',9,QH' Output
+QB,1,QB Output,RCLK,12, RCLK Input
+QC,2,QC Output,SER,14, SER Input(data pin)
+QD,3,QD Output,SRCLK,11, SRCLK Input(store register and shift)
+QE,4,QE Output,SRCLR,10, SRCLR Input(enable pin)
+QF,5,QF Output
+
+
+
+
+
+
+
+
+

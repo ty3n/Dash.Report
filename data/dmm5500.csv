@@ -1,0 +1,7 @@
+A,B,C
+Name,Setting,Comment
+PC1,192.168.100.10,
+PC2,192.168.100.20,
+DMM5500,,DUT
+CMTS,,
+POE,,48V to 12V
